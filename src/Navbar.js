@@ -16,7 +16,7 @@ render(){
                     <a className="nav-link page-scroll" href="#header">Home <span className="sr-only">(current)</span></a>
                 </li>
                 <li className="nav-item dropdown">
-                    <a className="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+                    <a className="nav-link dropdown-toggle page-scroll" href="#about" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">About us</a>
                     <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a className="dropdown-item" href="#whoweare"><span className="item-text">Who We Are</span></a>
                         <div className="dropdown-items-divide-hr"></div>
