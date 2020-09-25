@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/neena2_public/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/neena2_public/static/js/main.1baec044.chunk.js",
+    "main.js.map": "/neena2_public/static/js/main.1baec044.chunk.js.map",
+    "runtime-main.js": "/neena2_public/static/js/runtime-main.e86bfe08.js",
+    "runtime-main.js.map": "/neena2_public/static/js/runtime-main.e86bfe08.js.map",
+    "static/css/2.34c0de18.chunk.css": "/neena2_public/static/css/2.34c0de18.chunk.css",
+    "static/js/2.2d1be1c3.chunk.js": "/neena2_public/static/js/2.2d1be1c3.chunk.js",
+    "static/js/2.2d1be1c3.chunk.js.map": "/neena2_public/static/js/2.2d1be1c3.chunk.js.map",
+    "index.html": "/neena2_public/index.html",
+    "precache-manifest.86c39ba020089d7a5f59cc41a8df230f.js": "/neena2_public/precache-manifest.86c39ba020089d7a5f59cc41a8df230f.js",
+    "service-worker.js": "/neena2_public/service-worker.js",
+    "static/css/2.34c0de18.chunk.css.map": "/neena2_public/static/css/2.34c0de18.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/neena2_public/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2d1be1c3.chunk.js.LICENSE.txt": "/neena2_public/static/js/2.2d1be1c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e86bfe08.js",
+    "static/css/2.34c0de18.chunk.css",
+    "static/js/2.2d1be1c3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1baec044.chunk.js"
+  ]
+}
